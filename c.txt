@@ -1,0 +1,1 @@
+To jest linia tekstu w gałęzi master
