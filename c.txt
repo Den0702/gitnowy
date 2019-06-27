@@ -1,1 +1,5 @@
+
 To jest linia tekstu w gałęzi master
+
+Linijka w gałęzi c
+
