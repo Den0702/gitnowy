@@ -1,2 +1,1 @@
-1. ABCD
-2. EFGH
+1. ABCD To jest issue w gałęzi newissue
